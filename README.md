@@ -60,6 +60,7 @@ All projects below represent fictional organizations created solely for professi
 * GRC Analyst
 * Security Compliance Analyst
 * Risk & Compliance Analyst
+* Information Security Governance Analyst
 
 ---------------------
 🌐 Portfolio Websites
