@@ -6,60 +6,53 @@ I am a junior–mid level Governance, Risk, and Compliance (GRC) analyst buildin
 
 My focus is on practical, business-aligned risk management, policy development, control mapping, and audit readiness across technology-driven environments
 
-------------------
 🔍 What I Work On
-------------------
 
-👉 ISO/IEC 27001-aligned risk assessments
-👉 Risk registers & risk treatment plans
-👉 Mapping risks to Annex A controls
-👉 Statement of Applicability (SoA)
-👉 Information security policies
-👉 GDPR-aware governance documentation
+* 👉 ISO/IEC 27001-aligned risk assessments
+* 👉 Risk registers & risk treatment plans
+* 👉 Mapping risks to Annex A controls
+* 👉 Statement of Applicability (SoA)
+* 👉 Information security policies
+* 👉 GDPR-aware governance documentation
 
---------------------------
+
 🗂 GRC Portfolio Projects
---------------------------
 
 ⚠️ Disclaimer:
 All projects below represent fictional organizations created solely for professional portfolio purposes.⚠️
 
 🖥 SaaS – NordSecure Analytics Ltd
-=> Cloud security governance
-=> ISO 27001 risk assessment
-=> GDPR-aligned controls
+* => Cloud security governance
+* => ISO 27001 risk assessment
+* => GDPR-aligned controls
 
 💳 Fintech – NordPay Global Ltd
-=> Payments risk management
-=> Third-party & regulatory risk
-=> Audit readiness documentation
+* => Payments risk management
+* => Third-party & regulatory risk
+* => Audit readiness documentation
 
 📡 IoT – NordTrack IoT Ltd
-=> Device & telemetry data risks
-=> Supply-chain security governance
-=> Cloud infrastructure controls
+* => Device & telemetry data risks
+* => Supply-chain security governance
+* => Cloud infrastructure controls
 
 🎮 Gaming – Aurora Online Studios
-=> Live-service platform risks
-=> Player data protection
-=> Incident response planning
+* => Live-service platform risks
+* => Player data protection
+* => Incident response planning
 
--------------------
 🧠 My GRC Approach
--------------------
 
-👉 Risk-based thinking aligned with business objectives
-👉 Controls selected proportionally to risk
-👉 Clear documentation that supports audits and operations
-👉 Continuous improvement mindset
+* 👉 Risk-based thinking aligned with business objectives
+* 👉 Controls selected proportionally to risk
+* 👉 Clear documentation that supports audits and operations
+* 👉 Continuous improvement mindset
 
-----------------
 🎯 Target Roles
-----------------
 
-👉 GRC Analyst
-👉 Security Compliance Analyst
-👉 Risk & Compliance Analyst
+* 👉 GRC Analyst
+* 👉 Security Compliance Analyst
+* 👉 Risk & Compliance Analyst
 
 ---------------------
 🌐 Portfolio Websites
