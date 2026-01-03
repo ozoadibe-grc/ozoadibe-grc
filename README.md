@@ -67,4 +67,10 @@ All projects below represent fictional organizations created solely for professi
 
 * https://yourusername.github.io
 
+--------------
+📫 Contact Me 
+---------_----
 
+Email: ozoadibeobi@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/obiajulu-ozoadibe
