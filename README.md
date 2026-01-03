@@ -73,4 +73,4 @@ All projects below represent fictional organizations created solely for professi
 
 Email: ozoadibeobi@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/obiajulu-ozoadibe
+LinkedIn: https://www.linkedin.com/in/obiajulu-ozoadibe-bb2396308
